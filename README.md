@@ -52,7 +52,7 @@ Countries Covered: 43
 
 ## Product & Vendor Analysis
 
-![Product & Vendor Analysis](Product_Vendor_Analysis.png)
+![Product & Vendor Analysis](Product_&_Vendor_Analysis.png)
 
 ## Country Performance Analysis
 
@@ -61,7 +61,7 @@ Countries Covered: 43
 
 ## Custom Tooltip
 
-![Tooltip](Tooltip.png)
+![tooltip](tooltip.png)
 
 ## Note
 
